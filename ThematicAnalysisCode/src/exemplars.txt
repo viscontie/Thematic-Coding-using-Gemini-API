@@ -13,3 +13,56 @@ Exemplars:
 Response: Computer is the study of computer programming. For example, writing programs and how to organize multiple programs. The study of programming allows a computer scientist to complete tasks.
 Action: Let’s code the response.
 “Computer programming, writing programs” mentions programming. Therefore, we got a code: Programming/Coding. 
+
+
+(2)
+Response: Computer science is about breaking a task into precise steps that work every time, like a recipe with no room for guessing. It's about designing those step-by-step procedures and figuring out which one is the fastest.
+Action: Let’s code the response.
+“precise steps that work every time, designing those step-by-step procedures” refers to designing procedures and algorithms for tasks. Therefore, we got a code: Logic/Algorithms.
+ 
+(3)
+Response: I picture computer science as a lot of if-then reasoning and proofs. Everything comes down to true and false and how you combine them to reach a conclusion.
+Action: Let’s code this response!
+“if-then reasoning and proofs, true and false” mentions logical reasoning. Therefore, we got a code: Logic/Algorithms.
+ 
+(4)
+Response: Computer science is making new things out of nothing but ideas. Apps, websites, games: someone has to design and build them, and that's what people in CS do.
+Action: Let’s code the response.
+“making new things, design and build” refers to creating and building software. Therefore, we got a code: Creation/Building.
+ 
+(5)
+Response: Computer science shapes almost everything in modern life, from how we talk to friends to how hospitals and governments operate. It affects who gets access to opportunities and who doesn't, so it's as much about people as it is about machines.
+Action: Let’s code the response.
+“shapes almost everything in modern life, affects who gets access to opportunities” refers to the influence of computing on society and people. Therefore, we got a code: Society and Humanity.
+ 
+(6)
+Response: I think computer science is using computers to take on problems that are too big or too repetitive for a person, like sorting through millions of records. That frees people up to focus on other things. I'm mostly taking the class because it fulfills a requirement.
+Action: Let’s code the response.
+“too big or too repetitive for a person, frees people up to focus on other things” mentions humans and computers taking over work for people. Therefore, we got a code: Society and Humanity.
+“take on problems” refers to problem-solving. Therefore, we got a code: Problem-Solving.
+ 
+(7)
+Response: Computer science is figuring out how to solve a problem in a way a computer can handle. You look at what you're trying to do, split it into smaller problems, and work out a solution one piece at a time.
+Action: Let’s code the response.
+“figuring out how to solve a problem, split it into smaller problems” refers to problem-solving. Therefore, we got a code: Problem-Solving.
+ 
+(8)
+Response: There is a creative side to computer science, like designing a game or an interface from scratch, where you get to decide how everything looks and behaves. It's part engineering and part design.
+Action: Let’s code the response.
+“creative side, designing a game or an interface from scratch” refers to creativity and design. Therefore, we got a code: Creation/Building.
+ 
+(9)
+Response: Computer science is a bit like learning to talk to machines. I've heard you can also build your own websites, and I'm hoping to make one for a club I'm in.
+Action: Let’s code this response.
+“learning to talk to machines” refers to communication with computers. Therefore, we got a code: Communication.
+“build your own websites, make one” refers to building something. Therefore, we got a code: Creation/Building.
+ 
+(10)
+Response: From what I understand, computer science is programming: reading code, debugging it, and writing your own programs to make software do what you want. That's my guess anyway.
+Action: Let’s code this response.
+“programming, reading code, debugging, writing your own programs” refers to coding and programming. Therefore, we got a code: Programming/Coding.
+ 
+(11)
+Response: In CS you learn how computers talk to each other, like how your phone sends a message across the internet and someone else's phone understands it, and how programs pass information back and forth.
+Action: Let’s code this response.
+“how computers talk to each other, programs pass information back and forth” mentions communication between computer systems. Therefore, we got a code: Communication.
