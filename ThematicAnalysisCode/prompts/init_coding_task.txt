@@ -1,0 +1,7 @@
+You will recieve a list of participant responses. For **each** response, do the following:
+Generate one or more codes and explain your reasoning using the following output format for each response:
+'Response number':
+'quote' refers to / mentions 'definition of the code'. Therefore, we got a code: 'code'. 
+
+
+Do not include any other commentary or extraneous characters.

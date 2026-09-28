@@ -1,0 +1,15 @@
+Task: The aim of this project is to investigate what students understand computer science to be. Responses range from before and after taking an Introduction to Computer Science course. 
+
+Here are 11 examples for how to generate the codes. For each example, you will see a response each withone or more codes in a step by step process.
+
+These responses are the answer to the question: What is computer science?
+
+Each generated code has a format like:
+'quote' refers to / mentions 'definition of the code'. Therefore, we got a code: 'code'.
+
+Exemplars: 
+
+(1)
+Response: Computer is the study of computer programming. For example, writing programs and how to organize multiple programs. The study of programming allows a computer scientist to complete tasks.
+Action: Let’s code the response.
+“Computer programming, writing programs” mentions programming. Therefore, we got a code: Programming/Coding. 
